@@ -1,0 +1,23 @@
+[
+	{
+		"package": "audit.base",
+		"url": "https://github.com/jumpingrivers/audit.base"
+	},
+	{
+		"package": "audit.connect",
+		"url": "https://github.com/jumpingrivers/audit.connect"
+	},
+	{
+		"package": "audit.workbench",
+		"url": "https://github.com/jumpingrivers/audit.workbench"
+	},
+	{
+		"package": "serverHeaders",
+		"url": "https://github.com/jumpingrivers/serverHeaders"
+	},
+	{
+		"package": "inteRgrate",
+		"url": "https://github.com/jumpingrivers/inteRgrate"
+	}
+]
+
